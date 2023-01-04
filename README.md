@@ -7,3 +7,7 @@ The work is divided into 3 parts:
 -Eyes detection using face landmarks.
 -select the desired key from the keyboard by calculating the blinking ratio.
 -Send the text to the Google search engine automatically by selecting the "?"
+See the demo video in my Linkein profile
+[
+Google-search-automation-with-the-eye-s-gestures
+](https://www.linkedin.com/feed/update/urn:li:activity:6964240099236585472/)
